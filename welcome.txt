@@ -1,0 +1,6 @@
+Welcome!
+
+Your new user password is your birthday (MM/DD/YYYY) with slash 
+
+Please remember to change your password after first login.
+Unauthorized access is strictly prohibited.
